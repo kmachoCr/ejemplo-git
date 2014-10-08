@@ -1,1 +1,1 @@
-txt 1 - Cambio en el texto
+txt 1 - Texto inicial
